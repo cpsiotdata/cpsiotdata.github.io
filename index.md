@@ -4,7 +4,7 @@ layout: default_2021
 
 <!-- <br /> -->
 
-![](https://live.staticflickr.com/2893/9668220230_72aa7d6e5f_c.jpg)
+![](https://raw.githubusercontent.com/cpsiotdata/cpsiotdata.github.io/master/figs/vu.jpg)
 
 
 <p style="font-family: Arvo, Monaco, serif;
