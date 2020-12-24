@@ -12,7 +12,7 @@ layout: default_2021
 <h4 style="margin-top: 0;"> <strong> In conjunction with the <br />  
 <a href="https://cps-iot-week2021.isis.vanderbilt.edu/" target="_blank"> <strong> 2021 CPS-IOT Week </strong> </a> </strong> </h4>
 
-![](https://raw.githubusercontent.com/cpsiotdata/cpsiotdata.github.io/master/figs/vu.jpg)
+<!--![](https://raw.githubusercontent.com/cpsiotdata/cpsiotdata.github.io/master/figs/vu.jpg)-->
 
 ## Background
 
