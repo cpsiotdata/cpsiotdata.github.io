@@ -1,5 +1,5 @@
 ---
-layout: default_2020
+layout: default_2021
 ---
 
 <!-- <br /> -->
@@ -72,8 +72,8 @@ Submitted papers can be up to 12 or 6 pages including appendices and references.
 ## Important Dates
 
 
-* ~~<span style="color:red">**<u>NEW</u>**</span>~~ Title/Abstract Submission Deadline: **February 4, 2021** (23:59 Anywhere on Earth time - HARD deadline)
-* ~~<span style="color:red">**<u>NEW</u>**</span>~~ PDF Update Deadline: **February  14, 2021** (23:59 Anywhere on Earth time - HARD deadline)
+* Title/Abstract Submission Deadline: **February 4, 2021** (23:59 Anywhere on Earth time - HARD deadline)
+* PDF Update Deadline: **February  14, 2021** (23:59 Anywhere on Earth time - HARD deadline)
 * Notification of Acceptance/Rejection: **April 1, 2021**
 * Camera Ready Papers Due: (hard deadline): **April 15, 2021**
 
