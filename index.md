@@ -3,10 +3,6 @@ layout: default_2021
 ---
 
 <!-- <br /> -->
-
-![](https://raw.githubusercontent.com/cpsiotdata/cpsiotdata.github.io/master/figs/vu.jpg)
-
-
 <p style="font-family: Arvo, Monaco, serif;
   line-height:1.2;
 	font-weight: normal;font-size: 40px;">The Workshop on <br /> CPS Data for Transportation with Human in the Loop </p>
@@ -15,6 +11,8 @@ layout: default_2021
 
 <h4 style="margin-top: 0;"> <strong> In conjunction with the <br />  
 <a href="https://cps-iot-week2021.isis.vanderbilt.edu/" target="_blank"> <strong> 2021 CPS-IOT Week </strong> </a> </strong> </h4>
+
+![](https://raw.githubusercontent.com/cpsiotdata/cpsiotdata.github.io/master/figs/vu.jpg)
 
 ## Background
 
