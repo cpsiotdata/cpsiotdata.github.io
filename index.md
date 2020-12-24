@@ -4,7 +4,7 @@ layout: default_2021
 
 <!-- <br /> -->
 
-![](https://c1.staticflickr.com/9/8475/8414286285_5379dc5b3f_b.jpg)
+![](https://live.staticflickr.com/2893/9668220230_72aa7d6e5f_c.jpg)
 
 
 <p style="font-family: Arvo, Monaco, serif;
