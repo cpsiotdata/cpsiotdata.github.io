@@ -43,7 +43,7 @@ modalities
 * Tools for CPS Big data for Transportation
 * Novel applications to human-in-the-loop transportation CPS
 
-Further, of interest will be papers that can direct the research community to new research paradigms, and those that can set research agendas and priorities in transportation CPS data with a human in the loop. The deadline for paper submission is **20th February 2021**.
+Further, of interest will be papers that can direct the research community to new research paradigms, and those that can set research agendas and priorities in transportation CPS data with a human in the loop. The deadline for paper submission is **14th March 2021**.
 
 
 ## Submission Guidelines
@@ -71,7 +71,7 @@ Submitted papers can be up to 12 or 6 pages including appendices and references.
 
 
 * Title/Abstract Submission Deadline: ~~**February 10, 2021**~~ Abstract will be accepted any time before the PDF update (23:59 Anywhere on Earth time)
-* PDF Update Deadline: **February  20, 2021** (23:59 Anywhere on Earth time)
+* PDF Update Deadline: **March  14, 2021** (23:59 Anywhere on Earth time)
 * Notification of Acceptance/Rejection: **April 1, 2021**
 * Camera Ready Papers Due: (hard deadline): **April 15, 2021**
 
