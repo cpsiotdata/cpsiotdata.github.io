@@ -77,7 +77,9 @@ Submitted papers can be up to 12 or 6 pages including appendices and references.
 
 ## Program Chairs
 *	Katie Driggs-Campbell (University of Illinois, Urbana Champaign), USA
+*   Ayan Mukhopadhyay, (Vanderbilt University), USA
 *	Raphael Stern (University of Minnesota), USA
+*   Aron Laszka, (University of Houston), USA
 
 ## Technical Program Committee
 * Rahul Bhadani (The University of Arizona)
@@ -87,6 +89,9 @@ Submitted papers can be up to 12 or 6 pages including appendices and references.
 * Jnaneshwar Das (Arizona State University)
 * Benjamin Seibold (Temple Universit)
 * Daniel Work (Vanderbilt University)
+* Abhishek Dubey (Vanderbilt University)
+* Ram Rajagopal (Stanford University)
+* Danny Huang (New York University)
 
 
 
