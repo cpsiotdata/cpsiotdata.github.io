@@ -16,16 +16,22 @@ layout: default_2021
 
 ## Background
 
-Transportation CPS has evolved in recent years to produce a deluge of data coming from
-mobile nodes such as vehicles themselves as well as infrastructure like road-side units,
+Smarti Cities & Transportation CPS has evolved in recent years to produce a deluge of data.
+These data comprise of safety connectivity, health services, transportation and mobile nodes 
+such as vehicles themselves as well as infrastructure like road-side units,
 DSRC units, and pole-mounted cameras, among others. Those data are extremely
 valuable in determining human behavior both at the scale of the entire population as
 well as at the level of individual people navigating the infrastructure landscape.
-With several different data modalities in the picture, new opportunities arise in
-terms of data collection, validation, analysis, inference making. Additionally, these
+
+With the advent of IoT, sensor data is being generated at a pace and volume that is 
+difficult to process and make inferences from. 
+With several data modalities in the picture, new opportunities arise in
+terms of data collection, validation, analysis, inference making. These
 additional data allow for new efforts to develop novel models for traffic behavior at
 different geographical locations and time points, as well as what factors are
-consequential human driving behavior.
+consequential human driving behavior. At the same time, there is a growing need for automated 
+applications to be fair, secure, and resilient. Participants in the workshop will 
+exchange ideas on these and allied topics, including data science and open-source data sets for smart cities, decision making for smart cities, design of intelligent systems in smart cities, and challenges in deployment, equity and fairness in smart cities, and security and privacy in AI for cities.
 
 
 ## Scope
@@ -47,15 +53,21 @@ Further, of interest will be papers that can direct the research community to ne
 
 
 ## Submission Guidelines
-Submissions include ***long papers (12 pages)*** and ***short papers (6 pages)***.
+Submissions include ***long papers (8-12 pages)*** ,  ***short papers (4-6 pages)*** and ***concept papers (2 pages)***
 
 #### Long papers include:
 1. Original research on transportation CPS data with a human in the loop
 2. Integrative and multi-modal data analysis resulting in novel models for human driving behavior, and vehicular control in mixed autonomy.
+3. Approaches to model complex decision-making tasks in smart cities and how they tackle uncertainty.
+4. Challenges faced and lessons learned in deploying intelligent systems in smart cities.
+5. Principled heuristics to design scalable decision-making in city-scale CPS.
+6. Anomaly detection in smart and connected communities.
+
 
 #### Short papers include:
 1. Original preliminary research on transportation CPS data with a human in the loop
 2. Demos, experience, tutorials, and presentation on software tools, simulations, and experimental results concerning CPS transportation with a human in the loop.
+3. Frameworks and machine learning models for solving the challenge of integrating heterogeneous and cross-domain data in smart cities.
 
 Submitted papers can be up to 12 or 6 pages including appendices and references. Submissions must use the format defined by ICCPS [(http://iccps.acm.org/2021/call-for-paper/)](http://iccps.acm.org/2021/call-for-paper/). Only PDF o latex-zipped files will be accepted. Alongside the camera-ready PDF’s, you will be required to collect and submit the source files for each paper – all files which were used to create the final output (PDF), be they Word, LaTeX, image files, etc.   **There is no requirement to anonymize the submissions; Authors may choose to submit anonymously or not.** Accepted papers will be published by the ACM Press and/or the ACM Digital Library. Submissions must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Each accepted paper must be presented by a registered author. Submissions not meeting these guidelines risk immediate rejection. For questions about these policies, please contact the chairs.
 
