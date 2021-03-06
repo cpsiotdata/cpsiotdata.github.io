@@ -5,7 +5,7 @@ layout: default_2021
 <!-- <br /> -->
 <p style="font-family: Arvo, Monaco, serif;
   line-height:1.2;
-	font-weight: normal;font-size: 40px;">The Workshop on <br /> CPS Data for Transportation with Human in the Loop </p>
+	font-weight: normal;font-size: 40px;">The Workshop on <br /> Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS)</p>
 
 
 
@@ -29,7 +29,7 @@ consequential human driving behavior.
 
 
 ## Scope
-The Workshop on CPS Data for Transportation with Human in the Loop invites academia, industry, and governmental entities to submit:
+The Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS) invites academia, industry, and governmental entities to submit:
 *	Original research papers on the Transportation CPS concerning data with a human in the loop
 *	Software tools for integrative analysis of transportation gather from multiple modalities
 *	Demos (hands-on or videos) of experiences/testbeds/software/novel architecture of CPS and IoT transportation data research
