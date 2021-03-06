@@ -16,7 +16,7 @@ layout: default_2021
 
 ## Background
 
-Smarti Cities & Transportation CPS has evolved in recent years to produce a deluge of data.
+Smart Cities & Transportation CPS has evolved in recent years to produce a deluge of data.
 These data comprise of safety connectivity, health services, transportation and mobile nodes 
 such as vehicles themselves as well as infrastructure like road-side units,
 DSRC units, and pole-mounted cameras, among others. Those data are extremely
