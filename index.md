@@ -17,7 +17,11 @@ layout: default_2021
 ## Background
 
 Smart Cities & Transportation CPS has evolved in recent years to produce a deluge of data.
+<<<<<<< HEAD
 These data comprise of safety connectivity, health services, transportation, and mobile nodes 
+=======
+These data comprise of safety connectivity, health services, transportation and mobile nodes 
+>>>>>>> ca261d0ff0b6815449b3fff61e1c871c0e5307bb
 such as vehicles themselves as well as infrastructure like road-side units,
 DSRC units, and pole-mounted cameras, among others. Those data are extremely
 valuable in determining human behavior both at the scale of the entire population as
@@ -67,7 +71,7 @@ Submissions include ***long papers (8-12 pages)*** ,  ***short papers (4-6 pages
 2. Demos, experience, tutorials, and presentation on software tools, simulations, and experimental results concerning CPS transportation with a human in the loop.
 3. Frameworks and machine learning models for solving the challenge of integrating heterogeneous and cross-domain data in smart cities.
 
-Submitted papers can be up to 12 or 6 pages including appendices and references. Submissions must use the format defined by ICCPS [(http://iccps.acm.org/2021/call-for-paper/)](http://iccps.acm.org/2021/call-for-paper/). Only PDF o latex-zipped files will be accepted. Alongside the camera-ready PDF’s, you will be required to collect and submit the source files for each paper – all files which were used to create the final output (PDF), be they Word, LaTeX, image files, etc.   **There is no requirement to anonymize the submissions; Authors may choose to submit anonymously or not.** Accepted papers will be published by the ACM Press and/or the ACM Digital Library. Submissions must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Each accepted paper must be presented by a registered author. Submissions not meeting these guidelines risk immediate rejection. For questions about these policies, please contact the chairs.
+Submitted papers can be up to 12 or 6 pages including appendices and references. Submissions must use the format defined by ICCPS [(http://iccps.acm.org/2021/call-for-paper/)](http://iccps.acm.org/2021/call-for-paper/). Only PDF or latex-zipped files will be accepted. Alongside the camera-ready PDF’s, you will be required to collect and submit the source files for each paper – all files which were used to create the final output (PDF), be they Word, LaTeX, image files, etc.   **There is no requirement to anonymize the submissions; Authors may choose to submit anonymously or not. Accepted papers will be published by the ACM Press and/or the ACM Digital Library; however, authors can choose to opt out of formal proceedings. We welcome prior work published in conferences or journals.** Each accepted paper must be presented by a registered author. Submissions not meeting these guidelines risk immediate rejection. For questions about these policies, please contact the chairs.
 
 
 <!--
