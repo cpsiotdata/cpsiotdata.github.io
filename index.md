@@ -17,11 +17,8 @@ layout: default_2021
 ## Background
 
 Smart Cities & Transportation CPS has evolved in recent years to produce a deluge of data.
-<<<<<<< HEAD
+
 These data comprise of safety connectivity, health services, transportation, and mobile nodes 
-=======
-These data comprise of safety connectivity, health services, transportation and mobile nodes 
->>>>>>> ca261d0ff0b6815449b3fff61e1c871c0e5307bb
 such as vehicles themselves as well as infrastructure like road-side units,
 DSRC units, and pole-mounted cameras, among others. Those data are extremely
 valuable in determining human behavior both at the scale of the entire population as
