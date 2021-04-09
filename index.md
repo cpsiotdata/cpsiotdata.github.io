@@ -88,10 +88,10 @@ Submitted papers can be up to 12 or 6 pages including appendices and references.
 * Camera Ready Papers Due: (hard deadline): **April 15, 2021**
 
 ## Program Chairs
-*	Katie Driggs-Campbell (University of Illinois, Urbana Champaign), USA
-*   Ayan Mukhopadhyay, (Vanderbilt University), USA
-*	Raphael Stern (University of Minnesota), USA
-*   Aron Laszka, (University of Houston), USA
+*	Katie Driggs-Campbell (University of Illinois, Urbana Champaign)
+*   Ayan Mukhopadhyay, (Vanderbilt University)
+*	Raphael Stern (University of Minnesota)
+*   Aron Laszka, (University of Houston)
 
 ## Technical Program Committee
 * Rahul Bhadani (The University of Arizona)
@@ -99,7 +99,7 @@ Submitted papers can be up to 12 or 6 pages including appendices and references.
 * Will Barbour (Vanderbilt University)
 * Xuan Sharon Di (Columbia University)
 * Jnaneshwar Das (Arizona State University)
-* Benjamin Seibold (Temple Universit)
+* Benjamin Seibold (Temple University)
 * Daniel Work (Vanderbilt University)
 * Abhishek Dubey (Vanderbilt University)
 * Ram Rajagopal (Stanford University)
@@ -109,7 +109,7 @@ Submitted papers can be up to 12 or 6 pages including appendices and references.
 
 ## Steering Committee
 *	Rahul Bhadani (The University of Arizona)
-*	Raphael Stern (University of Minnesota), USA
+*	Raphael Stern (University of Minnesota)
 *	Daniel Work (Vanderbilt University)
 
 
