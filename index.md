@@ -16,8 +16,8 @@ layout: default_2021
 
 ## Background
 
-Smarti Cities & Transportation CPS has evolved in recent years to produce a deluge of data.
-These data comprise of safety connectivity, health services, transportation and mobile nodes 
+Smart Cities & Transportation CPS has evolved in recent years to produce a deluge of data.
+These data comprise of safety connectivity, health services, transportation, and mobile nodes 
 such as vehicles themselves as well as infrastructure like road-side units,
 DSRC units, and pole-mounted cameras, among others. Those data are extremely
 valuable in determining human behavior both at the scale of the entire population as
@@ -29,9 +29,7 @@ With several data modalities in the picture, new opportunities arise in
 terms of data collection, validation, analysis, inference making. These
 additional data allow for new efforts to develop novel models for traffic behavior at
 different geographical locations and time points, as well as what factors are
-consequential human driving behavior. At the same time, there is a growing need for automated 
-applications to be fair, secure, and resilient. Participants in the workshop will 
-exchange ideas on these and allied topics, including data science and open-source data sets for smart cities, decision making for smart cities, design of intelligent systems in smart cities, and challenges in deployment, equity and fairness in smart cities, and security and privacy in AI for cities.
+consequential human driving behavior. At the same time, there is a growing need for automated applications to be fair, secure, and resilient. Participants in the workshop will exchange ideas on these and allied topics, including data science and open-source data sets for smart cities, decision making for smart cities, design of intelligent systems in smart cities, and challenges in deployment, equity, and fairness in smart cities, and security and privacy in AI for cities.
 
 
 ## Scope
@@ -85,7 +83,7 @@ Submitted papers can be up to 12 or 6 pages including appendices and references.
 * Title/Abstract Submission Deadline: ~~**February 10, 2021**~~ Abstract will be accepted any time before the PDF update (23:59 Anywhere on Earth time)
 * PDF Update Deadline: **March  14, 2021** (23:59 Anywhere on Earth time)
 * Notification of Acceptance/Rejection: **April 1, 2021**
-* Camera Ready Papers Due: (hard deadline): **April 15, 2021**
+* Camera-Ready Papers Due: (hard deadline): **April 15, 2021**
 
 ## Program Chairs
 *	Katie Driggs-Campbell (University of Illinois, Urbana Champaign)
