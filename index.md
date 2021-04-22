@@ -30,6 +30,7 @@ We will be running workshop virtually using Zoom. More details will be coming so
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-alz1{background-color:#eee8d5;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-i6s1{background-color:#eee8d5;text-align:center;vertical-align:top}
@@ -37,9 +38,9 @@ We will be running workshop virtually using Zoom. More details will be coming so
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Time</span></th>
-    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Talk</span></th>
-    <th class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Speaker</span></th>
+    <th class="tg-1wig"><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">Time</span></th>
+    <th class="tg-1wig"><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">Talk</span></th>
+    <th class="tg-1wig"><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">Speaker</span></th>
   </tr>
 </thead>
 <tbody>
