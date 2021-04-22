@@ -10,9 +10,136 @@ layout: default_2021
 
 
 <h4 style="margin-top: 0;"> <strong> In conjunction with the <br />  
-<a href="https://cps-iot-week2021.isis.vanderbilt.edu/" target="_blank"> <strong> 2021 CPS-IOT Week </strong> </a> </strong> </h4>
+<a href="https://cps-iot-week2021.isis.vanderbilt.edu/" target="_blank"> <strong> 2021 CPS-IOT Week </strong> </a>  </h4>
 
 <!--![](https://raw.githubusercontent.com/cpsiotdata/cpsiotdata.github.io/master/figs/vu.jpg)-->
+
+# Program
+
+Please note timezone: Central Time
+
+Please register for CPS-IoT event, including DI-CPS <a hred="https://cps-iot-week2021.isis.vanderbilt.edu/registration.html", target="_blank"><strong>here</strong></a>. Conference and workshop paper authors must register by May 1, 2021. All conference and workshop accepted papers must have one person register at the corresponding author registration rate.
+
+We will be running workshop virtually using Zoom. More details will be coming soon on this page.
+
+## May 18, 2021 (Central Time)
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hfk9{background-color:#000000;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-5s6y{background-color:#000000;border-color:#000000;font-family:Georgia, serif !important;;text-align:left;vertical-align:top
+  }
+.tg .tg-077p{background-color:#000000;border-color:#000000;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-5s6y"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Time</span></th>
+    <th class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Talk</span></th>
+    <th class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Speaker</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">9:50 am - 10:00 am</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Opening remarks</span></td>
+    <td class="tg-hfk9"></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">10:00 am - 10:45 am</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Keynote</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000"> Stephen Zoepf (Lacuna AI)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">10:45 am - 11:00 am</span></td>
+    <td class="tg-077p" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Break</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">11:00 am - 11:20 am</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Quantifying social distancing compliance and the effects of behavioral interventions using computer vision</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Derek Gloudemans, Nicole Gloudemans, William Barbour, Dan Work</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">11:20 am - 11:40 am</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Leveraging video data to better understand driver-pedestrian interactions in a smart city environment</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Tianyi Li, John Cullom and Raphael Stern</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">11:40 am - 12:00 pm</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Hierarchical Planning for Resource Allocation in Emergency Response Systems</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer and Abhishek Dubey</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">12:00 pm - 12:20 pm</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Efficient Data Management for Intelligent Urban Mobility Systems</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Michael Wilbur, Philip Pugliese, Aron Laszka and Abhishek Dubey</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">12:20 pm - 12:40 pm</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Integrating travel data into viral spread models for prediction and control</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Philip Pare, Brooks Buter, Raphael Stern</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">12:40 pm - 1:30 pm</span></td>
+    <td class="tg-077p" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Break</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">1:30 pm - 2:30 pm</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">NSF Keynote</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Aranya</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">2:30 pm - 2:45 pm</span></td>
+    <td class="tg-077p" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Break</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">2:45 pm - 3:05 pm</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Libpanda - A High Performance Library for Vehicle Data Collection</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Matt Bunting, Rahul Bhadani and Jonathan Sprinkle</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">3:05 pm - 3:25 pm</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">From CAN to ROS: A Monitoring and Data Recording Bridge</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Safwan Elmadani, Matthew Nice, Matthew Bunting, Jonathan Sprinkle and Rahul Bhadani</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">3:25 pm - 3:45 pm</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Integrated Framework of Vehicle Dynamics, Instabilities, Energy Models, and Sparse Flow Smoothing Controllers</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Jonathan Lee and others</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">3:45 pm - 4:05 pm</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Analysis, Design and Implementation of a Forecasting System for Parking Lots Occupation</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Gabriele Guerrini, Luca Romeo, Davide Alessandrini and Emanuele Frontoni</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">4:05 pm - 4:25 pm</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Lightweight LSTM for CAN Signal Decoding</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Paul Ngo and Jonathan Sprinkle</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">4:25 pm - 4:35 pm</span></td>
+    <td class="tg-077p" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Break</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">4:35 pm - 5:20 pm</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Closing Keynote</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Alex Jaimes (DataMinr)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">5:20 pm - 5:30 pm</span></td>
+    <td class="tg-hfk9"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000">Closing remarks</span></td>
+    <td class="tg-hfk9"></td>
+  </tr>
+</tbody>
+</table>
+
+
 
 ## Background
 
