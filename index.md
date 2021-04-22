@@ -18,7 +18,7 @@ layout: default_2021
 
 Please note timezone: Central Time
 
-Please register for CPS-IoT event, including DI-CPS <a href="https://cps-iot-week2021.isis.vanderbilt.edu/registration.html", target="_blank"><strong>here</strong></a>. Conference and workshop paper authors must register by May 1, 2021. All conference and workshop accepted papers must have one person register at the corresponding author registration rate.
+Please register for CPS-IoT event, including DI-CPS <a href="https://cps-iot-week2021.isis.vanderbilt.edu/registration.html" target="_blank">here</a>. Conference and workshop paper authors must register by May 1, 2021. All conference and workshop accepted papers must have one person register at the corresponding author registration rate.
 
 We will be running workshop virtually using Zoom. More details will be coming soon on this page.
 
