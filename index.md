@@ -90,7 +90,7 @@ We will be running workshop virtually using Zoom. More details will be coming so
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1:30 pm - 2:30 pm</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">NSF Keynote</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Aranya</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Aranya Chakrabortty</span></td>
   </tr>
   <tr>
     <td class="tg-alz1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2:30 pm - 2:45 pm</span></td>
