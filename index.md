@@ -80,8 +80,8 @@ We will be running workshop virtually using Zoom. More details will be coming so
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">12:20 pm - 12:40 pm</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Integrating travel data into viral spread models for prediction and control</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Philip Pare, Brooks Buter, Raphael Stern</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Modeling and Control of Epidemic Spread with Transportation: A Minnesota Case Study</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Philip E. Paré, Brooks Butler, Raphael Stern</span></td>
   </tr>
   <tr>
     <td class="tg-alz1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">12:40 pm - 1:30 pm</span></td>
