@@ -65,8 +65,8 @@ We will be running workshop virtually using Zoom. More details will be coming so
   </tr>
   <tr>
     <td class="tg-alz1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">11:20 am - 11:40 am</span></td>
-    <td class="tg-alz1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Leveraging video data to better understand driver-pedestrian interactions in a smart city environment</span></td>
-    <td class="tg-alz1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Tianyi Li, John Cullom and Raphael Stern</span></td>
+    <td class="tg-alz1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Analysis, Design and Implementation of a Forecasting System for Parking Lots Occupation</span></td>
+    <td class="tg-alz1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Gabriele Guerrini, Luca Romeo, Davide Alessandrini and Emanuele Frontoni</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">11:40 am - 12:00 pm</span></td>
@@ -113,8 +113,8 @@ We will be running workshop virtually using Zoom. More details will be coming so
   </tr>
   <tr>
     <td class="tg-alz1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">3:45 pm - 4:05 pm</span></td>
-    <td class="tg-alz1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Analysis, Design and Implementation of a Forecasting System for Parking Lots Occupation</span></td>
-    <td class="tg-alz1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Gabriele Guerrini, Luca Romeo, Davide Alessandrini and Emanuele Frontoni</span></td>
+    <td class="tg-alz1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Leveraging video data to better understand driver-pedestrian interactions in a smart city environment</span></td>
+    <td class="tg-alz1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Tianyi Li, John Cullom and Raphael Stern</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">4:05 pm - 4:25 pm</span></td>
