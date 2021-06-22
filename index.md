@@ -14,7 +14,7 @@ layout: default_2021
 
 <!--![](https://raw.githubusercontent.com/cpsiotdata/cpsiotdata.github.io/master/figs/vu.jpg)-->
 
-Thank you all for attending 1st Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS). We will return next year. Workshop proceedings can be accessed <a href="toc.html" target="_blank">here</a>
+Thank you all for attending 1st Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS). We will return next year. Workshop proceedings can be accessed <a href="toc.html" target="_blank">here</a>.
 
 ## Program
 
